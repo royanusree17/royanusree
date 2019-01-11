@@ -1,4 +1,4 @@
-s="Gngtok"
+s="SSiliguri"
 print(s)
 count=0
 for a in s:
