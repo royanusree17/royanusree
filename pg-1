@@ -1,0 +1,6 @@
+def string_length(str1):
+2	    count = 0
+3	    for char in str1:
+4	        count += 1
+5	    return count
+6	print(string_length('w3resource.com'))
